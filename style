@@ -1,0 +1,32 @@
+body
+	{
+		background-color: red;
+	}
+p
+	{
+		background-color: #43BFC7;
+		font-family: monospace;
+		font-size: 20px;
+
+	}
+h1
+	{
+		background-color: #79BAEC;
+		font-family: VT323, monospace
+		font-size: 50px;
+	}
+
+a:link, a:visited
+	{
+		background-color: none;
+		color:chocolate;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		padding:6px;
+	}
+a:hover, a:active
+	{
+		background-color: aqua;
+		color:white;
+	}
